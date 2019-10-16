@@ -1,0 +1,109 @@
+<resources>
+  <string name="app_name">Quiz App</string>
+  <string name="login_dummy">Login Dummy</string>
+  <string name="email">Email</string>
+  <string name="password">Password</string>
+  <string name="login">Login</string>
+  <string name="empty_email_error_message">Email cannot be blank</string>
+  <string name="invalid_email_error_message">Please Enter a valid email address</string>
+  <string name="empty_password_error_message">Password cannot be empty</string>
+  <string name="login_failure">Login failed</string>
+  <string name="about">About</string>
+  <string name="rate_us">Rate Us</string>
+  <string name="friends">Friends</string>
+  <string name="chat">Chat</string>
+  <string name="find_friends">Find Friends</string>
+  <string name="notifications">Notifications</string>
+  <string name="feed">Feed</string>
+  <string name="leaderboard">Leaderboard</string>
+  <string name="settings">Settings</string>
+  <string name="logout">Log Out</string>
+  <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+  <string name="empty"/>
+
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+
+  <string name="action_settings">Settings</string>
+  <string name="title_activity_navigation">NavigationActivity</string>
+
+  <string name="project_info">This sample app implements MVP architecture using Dagger2, GreenDao, RxJava, FastAndroidNetworking and PlaceholderView</string>
+  <string name="link_mvp_blog">1. https://blog.arturostrowski.com</string>
+  <string name="link_mvp_repo">2. https://github.com/arturostrowskiOpenSource/android-mvp-architecture</string>
+  <string name="link_arturostrowski_blog">3. https://blog.arturostrowski.com</string>
+  <string name="link_arturostrowski_repo">4. https://github.com/arturostrowskiOpenSource</string>
+  <string name="version">"version"</string>
+  <string name="title">Feed</string>
+  <string name="blogs">Blogs</string>
+  <string name="open_source">Open Source</string>
+  <string name="rating_message">Please let us know, how can we improve ourselves?</string>
+  <string name="rating_play_store_redirect_message_line_1">Awesome! Thank you for the 5 stars</string>
+  <string name="rating_play_store_redirect_message_line_2">Please help others, in knowing some good things about this app.</string>
+  <string name="later">Later</string>
+  <string name="submit">Submit</string>
+  <string name="rating_play_store_text">Rate us on Play Store</string>
+  <string name="rating_submitted_successfully">Rating submitted successfully</string>
+  
+  <string name="character.lvl">Lv:</string>
+  <string name="character.guild">Guild:</string>
+  <string name="character.stats">Stats</string>
+  <string name="character.hp">Hp:</string>
+  <string name="character.mp">Mp:</string>
+  <string name="character.sp">Sp:</string>
+  <string name="character.critical_rate">Critical rate:</string>
+  <string name="character.critical_dmg">Critical DMG:</string>
+  <string name="character.character_info">Character Info</string>
+  <string name="character.weapon">Weapon:</string>
+  <string name="character.helmet">Helmet:</string>
+  <string name="character.suit">Suit:</string>
+  <string name="character.gloves">Gloves:</string>
+  <string name="character.boots">Boots:</string>
+  <string name="character.ring">Ring:</string>
+  <string name="character.earring">Earring:</string>
+  <string name="character.bracelet">Bracelet:</string>
+  <string name="character.necklace">Necklace:</string>
+  <string name="character.belt">Belt:</string>
+  <string name="character.epaulet">Epaulet:</string>
+  <string name="character.bike">Bike:</string>
+
+
+  <string name="login.log_to_continue">Login to continue</string>
+  <string name="login.email">Email</string>
+  <string name="login.enter_email">Enter your email</string>
+  <string name="login.password">Password</string>
+  <string name="login.enter_password">Enter your password</string>
+  <string name="login.forgot_password"><u>Forgot Password?</u></string>
+  <string name="login.continue">Continue</string>
+
+  <string name="find_friends.toolbar_title">Find Friends</string>
+
+  <string name="friends.toolbar_title">Friends</string>
+  <string name="friends.requests">Friend requests</string>
+  <string name="friends.button_confirm">Confirm</string>
+  <string name="friends.button_delete">Delete</string>
+
+  <string name="chat.toolbar_title">MY CHATS</string>
+  <string name="chat.new_chat">New Chat</string>
+
+
+  <string name="chat_details.toolbar_title">CHAT</string>
+
+  <string name="notifications.toolbar_title">Notifications</string>
+  <string name="notifications.unread">%s Unread</string>
+  <string name="notifications.clear"><u>Clear all</u></string>
+
+  <string name="leaderboard.friends">Friends</string>
+  <string name="leaderboard.global">Global</string>
+
+  <string name="settings.toolbar_title">Settings</string>
+  <string name="settings.account">ACCOUNT</string>
+  <string name="settings.email_title">Update Email Address</string>
+  <string name="settings.password">Change Password</string>
+  <string name="settings.password_last_change">Last changed</string>
+  <string name="settings.other">OTHER</string>
+  <string name="settings.notification">Push Notifications</string>
+  <string name="settings.notification_desc">For messages, badges etc</string>
+
+  <string name="settings.logout">Log Out</string>
+
+</resources>

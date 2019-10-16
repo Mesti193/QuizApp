@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group>
+    <!--<item-->
+      <!--android:id="@+id/navItemAbout"-->
+      <!--android:checked="true"-->
+      <!--android:icon="@drawable/ic_info_24px"-->
+      <!--android:title="@string/about" />-->
+    <item
+        android:id="@+id/navItemChat"
+        android:checked="true"
+        android:icon="@drawable/ic_star"
+        android:title="@string/chat" />
+    <item
+        android:id="@+id/navItemFindFriends"
+        android:checked="true"
+        android:icon="@drawable/ic_star"
+        android:title="@string/find_friends" />
+    <item
+        android:id="@+id/navItemFriends"
+        android:checked="true"
+        android:icon="@drawable/ic_star"
+        android:title="@string/friends" />
+    <item
+      android:id="@+id/navItemNotifications"
+      android:checked="true"
+      android:icon="@drawable/ic_star"
+      android:title="@string/notifications" />
+    <item
+      android:id="@+id/navItemLeaderboard"
+      android:checked="true"
+      android:icon="@drawable/ic_rss_symbol"
+      android:title="@string/leaderboard" />
+    <item
+        android:id="@+id/navItemSettings"
+        android:checked="true"
+        android:icon="@drawable/ic_rss_symbol"
+        android:title="@string/settings" />
+    <item
+      android:id="@+id/navItemLogout"
+      android:checked="true"
+      android:icon="@drawable/ic_power_settings_new_24px"
+      android:title="@string/logout" />
+  </group>
+</menu>
